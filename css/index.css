@@ -87,14 +87,18 @@ body{
 .our-collections .row{
     padding-top: 5rem;
     margin-left: 5rem;
-    margin-right: 5rem;
+    margin-right: 3rem;
 }
 .our-collections img{
     width: 29rem;
     height: 43rem;
 }
-.our-collections p{
+.our-collections .men p{
     padding-top: 8rem;
+    margin-left: 1rem;
+}
+.our-collections .men .btn{
+    margin-left: 1rem;
 }
 .our-collections span{
     color: var(--color2);
